@@ -1,0 +1,37 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code Project files
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (DO NOT TRACK CSVs or large data)
+*.csv
+*.h5
+*.hdf5
+*.xlsx
+
+# Environment files
+.env
+*.env
+
+# Plots and images (optional, add if not sharing images)
+*.png
+*.jpg
+*.jpeg
+
+# Package management folders
+venv/
+env/
+.venv/
+ENV/
