@@ -4,6 +4,12 @@
 
 This project utilizes the MHEALTH (Mobile Health) dataset to classify human activities based on motion sensor signals. The dataset includes recordings of 12 common activities performed by 10 diverse volunteers, leveraging wearable sensors placed on the chest, right wrist, and left ankle. The objective is to use acceleration and gyroscope data to accurately recognize human behaviors in real-world, out-of-lab conditions.
 
+## 🏃‍♂️ Project Motivation
+
+Wearable sensors have unlocked the ability to continuously monitor human health and behavior outside of a lab. The core challenge, however, is translating raw, noisy sensor data (from accelerometers and gyroscopes) into meaningful insights.
+
+This project tackles this challenge by building a robust **Human Activity Recognition (HAR)** system. By leveraging the MHEALTH dataset, the goal is to develop a machine learning model that can accurately classify a person's activity—such as walking, running, or climbing stairs—using data from wearable sensors. This work has direct applications in remote patient monitoring, fitness tracking, and elder care.
+
 ---
 
 ## Dataset Summary
