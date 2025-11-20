@@ -58,6 +58,6 @@ Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and
 
 ## About
 
-Internship project by [Your Name], July 2025.  
+Internship project by Rudranshu Paul, July 2025.  
 See `/day.csv` for data structure (not distributed in this repo).
 
