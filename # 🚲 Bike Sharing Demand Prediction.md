@@ -1,8 +1,11 @@
-# 🚲 Bike Sharing Demand Prediction
+## 🚲 Bike Sharing Demand Prediction
 
-## Overview
+## 📈 Overview & Business Objective
+
 
 Predicting daily bike rental counts using weather, calendar, and environmental data from the [UCI/Kaggle Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset). This project demonstrates all steps of a modern ML pipeline: EDA, feature engineering, regression modeling, model comparison, and final business insights.
+
+Modern urban mobility solutions like bike-sharing programs require efficient management to be successful. A key challenge is **demand forecasting**: ensuring enough bikes are available where and when people need them, without costly oversupply.This project addresses this challenge by building a regression model to predict daily bike rental demand based on weather and seasonal data. The goal is to provide an accurate forecasting tool that can help operators optimize inventory, schedule maintenance, and make data-driven decisions to improve service and efficiency.
 
 ## Dataset
 
